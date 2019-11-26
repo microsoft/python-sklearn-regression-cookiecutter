@@ -18,7 +18,7 @@ correct.
 ============
 Example Data
 ============
-The example is from http://mldata.org/repository/data/viewslug/stockvalues/
+The example is from https://web.archive.org/web/20180322001455/http://mldata.org/repository/data/viewslug/stockvalues/
 It contains stock prices and the values of three indices for each day
 over a five year period. See the linked page for more details about
 this data set.
@@ -31,7 +31,7 @@ absolute values.
 '''
 
 # Remember to update the script for the new data when you change this URL
-URL = "http://mldata.org/repository/data/download/csv/stockvalues/"
+URL = "https://raw.githubusercontent.com/microsoft/python-sklearn-regression-cookiecutter/master/stockvalues.csv"
 
 # This is the column of the sample data to predict.
 # Try changing it to other integers between 1 and 155.
