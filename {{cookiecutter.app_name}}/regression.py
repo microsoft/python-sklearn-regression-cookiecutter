@@ -31,7 +31,7 @@ absolute values.
 '''
 
 # Remember to update the script for the new data when you change this URL
-URL = "https://raw.githubusercontent.com/huguesv/python-sklearn-regression-cookiecutter/master/stockvalues.csv"
+URL = "https://raw.githubusercontent.com/microsoft/python-sklearn-regression-cookiecutter/master/stockvalues.csv"
 
 # This is the column of the sample data to predict.
 # Try changing it to other integers between 1 and 155.
